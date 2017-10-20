@@ -5,23 +5,23 @@
 
 
 ##### 1. 登录AdMob，并前往Apps选项卡，创建应用和广告单元
-![螢幕快照 2017-10-18 下午3.31.04](/Users/waynehuang/Desktop/螢幕快照 2017-10-18 下午3.31.04.png)
+![pic1](images/pic1.png)
 ##### 2. 前往Mediation选项卡，点击CREATE MEDIATION GROUP
-![螢幕快照 2017-10-18 下午3.31.20](/Users/waynehuang/Desktop/螢幕快照 2017-10-18 下午3.31.20.png)
+!![pic2](images/pic2.png)
 
 
 ##### 3. 选择广告格式和应用平台
 
-![螢幕快照 2017-10-18 下午3.31.32](/Users/waynehuang/Desktop/螢幕快照 2017-10-18 下午3.31.32.png)
+![pic3](images/pic3.png)
 
 ##### 4. 添加Ad sources
-![螢幕快照 2017-10-18 下午3.31.45](/Users/waynehuang/Desktop/螢幕快照 2017-10-18 下午3.31.45.png)
+!![pic4](images/pic4.png)
 ##### 5. ADD CUSTOM EVENT
-![螢幕快照 2017-10-18 下午3.31.57](/Users/waynehuang/Desktop/螢幕快照 2017-10-18 下午3.31.57.png)
+![pic5](images/pic5.png)
 ##### 6. 填写参数如下（注意Class Name不能修改，并且将appID和appkey替换成你在Centrixlink平台申请的appID和appkey）
-![螢幕快照 2017-10-18 下午3.32.09](/Users/waynehuang/Desktop/螢幕快照 2017-10-18 下午3.32.09.png)
+![pic6](images/pic6.png)
 ##### 7. 点击Done后，如果成功你会发现你的广告单元下会出现如图所示
-![螢幕快照 2017-10-18 下午3.32.20](/Users/waynehuang/Desktop/螢幕快照 2017-10-18 下午3.32.20.png)
+![pic7](images/pic7.png)
 
 
 ### 步骤2: 集成Centrixlink Adapter和SDK
