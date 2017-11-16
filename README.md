@@ -1,4 +1,4 @@
-# Mediation for SDK 2.4 Document
+# Mediation for SDK 2.5.0 Document
 
 
 ### 步骤1: 前往AdMob，将Centrixlink添加到Mediation group
